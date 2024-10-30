@@ -1,0 +1,16 @@
+.modal-dialog {
+    margin-top: 95px;
+}
+.modal-content {
+    border-radius: 10px;
+}
+.modal-footer {
+    border: none;
+    padding-top: 0px;
+}
+
+.modal-footer button {
+    padding: 7px 23px;
+    font-size: 12px;
+    border-radius: 10px;
+}
